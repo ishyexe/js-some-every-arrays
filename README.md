@@ -1,0 +1,2 @@
+# js-some-every-arrays
+ 
